@@ -1,7 +1,3 @@
 Hello World
 
-Here
-
-There
-
-Everywhere
+Removing all the extra text
